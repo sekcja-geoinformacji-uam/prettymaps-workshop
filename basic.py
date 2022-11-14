@@ -60,5 +60,5 @@ layers = plot(
         osm_credit = {'x': 0.84, 'y': 0.97, 'color': '#2F3737', 'fontsize': 0.5}
 )
 
-plt.savefig('basic.png')
+plt.savefig('img/basic.png')
 plt.show()

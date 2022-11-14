@@ -98,5 +98,5 @@ ax.text(
     fontproperties = fm.FontProperties(fname = 'PermanentMarker-Regular.ttf', size = 16)
 )
 
-plt.savefig('advanced.png')
+plt.savefig('img/advanced.png')
 plt.show()
