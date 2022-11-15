@@ -1,6 +1,7 @@
 import matplotlib.pyplot as plt
 import matplotlib.font_manager as fm
 from prettymaps import plot
+# pip install osmnx==1.2.1
 
 # zdefiniowanie przestrzeni mapy
 fig, ax = plt.subplots(figsize = (10, 10), constrained_layout = True)
